@@ -1,5 +1,5 @@
 # bash_aliases
-my bash alliases
+my bash aliases
 
 wget to home folder
 
