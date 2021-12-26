@@ -3,4 +3,4 @@ my bash aliases
 
 wget to home folder
 
-run `source .bashrc` afterwards
+run `source ~/.bashrc` afterwards
