@@ -1,6 +1,3 @@
-export PS1="\[\033[38;5;82m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;33m\]\h\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;5m\]\w\[$(tput sgr0)\]\[\033[38;5;15m\]$ \[$(tput sgr0)\]"
-force_color_prompt=yes
-
 # aliases
 alias python='python3'
 alias pip='pip3'
