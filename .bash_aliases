@@ -2,11 +2,9 @@
 alias python='python3'
 alias pip='pip3'
 alias dosh='printf "entering $(docker ps -l --format "{{.Names}}")\n" && docker exec -it $(docker ps -l --format "{{.Names}}") bash'
-alias mkdir='mkdir -pv'
 alias d='docker'
 alias dps='docker ps -a'
 alias dls='docker container ls'
-alias loc='readlink -e'
 alias dcp='docker cp'
 
 #functions that are basically complicated aliases
